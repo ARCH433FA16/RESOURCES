@@ -6,7 +6,7 @@
 
 [Emoji Cheatsheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
-[Github Pages](http://jmcglone.com/guides/github-pages/)
+[Guide to Github Pages](http://jmcglone.com/guides/github-pages/)
 
 ### Software Tools
 
