@@ -6,6 +6,8 @@
 
 [Emoji Cheatsheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
+[Github Pages](http://jmcglone.com/guides/github-pages/)
+
 ### Software Tools
 
 [Atom](https://atom.io/)
