@@ -8,6 +8,8 @@
 
 [Guide to Github Pages](http://jmcglone.com/guides/github-pages/)
 
+[Jekyll Themes](https://github.com/jekyll/jekyll/wiki/themes)
+
 ### Software Tools
 
 [Atom](https://atom.io/)
