@@ -8,4 +8,7 @@ So if you have a Photon that requires a Wifi network connection for programming,
 
 ## Links
 
+[Cool Term for Mac](http://freeware.the-meiers.org/CoolTerm_Mac.zip)
+[Cool Term for Win](http://freeware.the-meiers.org/CoolTerm_Win.zip)
+
 [Full DFU and CLI Setup on Windows 10](http://community.particle.io/t/particle-official-windows-10-full-cli-and-dfu-setup/18309)
